@@ -1,4 +1,4 @@
-package study.pkg002;
+package study.package2;
 
 public class Ram {
     
