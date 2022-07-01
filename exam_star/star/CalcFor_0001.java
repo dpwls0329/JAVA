@@ -1,4 +1,5 @@
-package study;
+package star;
+
 // import static java.lang.Math.sqrt;
 
 public class CalcFor_0001 {
